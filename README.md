@@ -51,7 +51,7 @@ RAS
 
     printCoeffs     on;
 
-    kOmegaSSTCoeffs
+    kOmegaSSTSASnewCoeffs
     {
         delta cubeRootVol;
         cubeRootVolCoeffs
